@@ -18,3 +18,15 @@ Contains predictive modeling and statistical analysis projects.
 Airbnb Price Predictor: A regression-based model designed to estimate property rental values. This project includes extensive Exploratory Data Analysis (EDA) and feature engineering to identify market drivers.
 
 Tools: Scikit-learn, Pandas, Matplotlib, Seaborn.
+
+# 👤 Human Instance Segmentation with MediaPipe
+This project demonstrates a high-precision foreground-background separation pipeline. It is a core component of my Virtual Fitting Room architecture, used to isolate human subjects from diverse backgrounds before overlaying virtual garments.
+
+🛠️ Technical Stack
+MediaPipe: Used for the neural network-based segmentation mask generation.
+
+OpenCV: Handled color space conversions (BGR to RGB/RGBA) and image saving.
+
+NumPy: Used for boolean indexing and mask manipulation.
+
+Matplotlib: Provided visualization for the segmentation pipeline.
