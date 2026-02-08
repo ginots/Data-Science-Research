@@ -1,4 +1,5 @@
-Data Science & AI Research Portfolio
+### Data Science & AI Research Portfolio:
+
 This repository serves as a technical annex to my professional portfolio, documenting my research and implementation of Machine Learning, Deep Learning, and Computer Vision models.
 As a Python Django Developer, I focus on bridging the gap between experimental data science and production-grade web applications.
 
