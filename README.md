@@ -23,6 +23,7 @@ Tools: Scikit-learn, Pandas, Matplotlib, Seaborn.
 This project demonstrates a high-precision foreground-background separation pipeline. It is a core component of my Virtual Fitting Room architecture, used to isolate human subjects from diverse backgrounds before overlaying virtual garments.
 
 🛠️ Technical Stack
+
 MediaPipe: Used for the neural network-based segmentation mask generation.
 
 OpenCV: Handled color space conversions (BGR to RGB/RGBA) and image saving.
